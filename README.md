@@ -15,7 +15,7 @@ Step 2.
 Query to get all the columns of the table between the years 2016-2019
 
 Step 3.
-Export the data to an CSV file like shown below
+Export the data to an CSV file from MySql Workbench
 
 Step 4.
 Use Python and Pandas to Aggregate the CSV data so we can get the most popular item sold based on zip code and percentage of sales per store.
